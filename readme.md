@@ -1,0 +1,1 @@
+This was the second challenge at a dev/null competition in Stockholm. It's a working tetris game made in 2D Canvas with scoring but no difficulty changes. 
